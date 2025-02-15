@@ -8,7 +8,7 @@ If you believe you have found a security vulnerability in any Polypass-owned Git
 
 **Do not report security vulnerabilities publicly.**
 
-Instead, hold on to your report and check back on this file for a communication method. Currently, there is no method of reporting.
+Instead, send us a message directly at [info@polypass.ca](mailto:info@polypass.ca).
 
 Please include as much of the information listed below that you are able to provide. This will help us better understand the issue.
 
