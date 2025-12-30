@@ -1,6 +1,10 @@
 ![Polypass: Access granted.](POLYPASS.CA-HeroBanner@2x.png)
 
-## Create the <ins>_perfect_</ins> system
+# Access <ins>_granted_</ins>.
+
+Effortless entry control and time tracking in one smart system.
+
+## Create the perfect system
 
 **Choose from a variety of features to create a system that perfectly aligns with your needs.**
 
@@ -12,6 +16,6 @@ Our products are designed with ease of use in mind. We aim to simplify processes
 
 Polypass
 <br>
-[contact@polypass.ca](mailto:contact@polypass.ca)
+[info@polypass.ca](mailto:info@polypass.ca)
 <br>
 [www.polypass.ca](www.polypass.ca)
